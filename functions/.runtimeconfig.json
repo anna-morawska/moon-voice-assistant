@@ -1,0 +1,12 @@
+{
+  "sendgrid": {
+    "key": "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",
+    "id": "SENDGRID API KEY"
+  },
+  "firebase": {
+    "projectId": "mooncascade-assistance",
+    "databaseURL": "https://mooncascade-assistance.firebaseio.com",
+    "storageBucket": "mooncascade-assistance.appspot.com",
+    "locationId": "us-east1"
+  }
+}
